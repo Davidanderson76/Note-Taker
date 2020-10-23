@@ -68,3 +68,7 @@ html, body {
   padding: 20px;
   cursor: pointer;
 }
+.navbar, .navbar-nav, a {
+  color: red;
+}
+
